@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 namespace Lexico {
-    class Program {
+    public class Program {
         static void Main(string[] args) {
             //
         }
